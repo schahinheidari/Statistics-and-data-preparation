@@ -9,6 +9,7 @@
 5. Kullback-Leibler test for statistical distributions
 6. Janson Shannon criterion for calculating two statistical distributions
 7. Kolmogorov-Smirnov criterion for comparing probability distributions
+8. Familiarity with P Value and its use in statistical tests
 
         
 
@@ -108,6 +109,20 @@ The Kolmogorov–Smirnov test may also be used to test whether two underlying on
 For more information, you can check the following site:<br/> 
 - [Kolmogorov-Smirnov wikipedia](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test)
 - [KS Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.kstest.html)
+
+In this part, using the `kolmogorov smirnov.ipynb` file.
+[kolmogorov smirnov.ipynb](https://github.com/schahinheidari/Statistics-and-data-preparation/blob/main/kolmogorov%20smirnov/kolmogorov%20smirnov.ipynb)
+
+
+### Familiarity with P Value and its use in statistical tests :
+
+#### What is `P Value` or `A/B testing` ?
+A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
+
+For more information, you can check the following site:<br/> 
+- [A/B Testing in Python](https://python.plainenglish.io/a-b-testing-in-python-a-user-experience-research-methodology-2739297f8a23)
+- [A/B testing Documentation](https://towardsdatascience.com/analyzing-a-b-test-results-with-python-code-b55fdcd8a78e)
+- [AB_Tests Kaggle](https://www.kaggle.com/code/tammyrotem/ab-tests-with-python)
 
 In this part, using the `kolmogorov smirnov.ipynb` file.
 [kolmogorov smirnov.ipynb](https://github.com/schahinheidari/Statistics-and-data-preparation/blob/main/kolmogorov%20smirnov/kolmogorov%20smirnov.ipynb)
