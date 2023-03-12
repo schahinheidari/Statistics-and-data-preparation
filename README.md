@@ -117,12 +117,13 @@ In this part, using the `kolmogorov smirnov.ipynb` file.
 ### Familiarity with P Value and its use in statistical tests :
 
 #### What is `P Value` or `A/B testing` ?
-A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
+`A/B tests` are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these. A/B testing is essentially an experiment where two or more variants of a page are shown to users at random, and statistical analysis is used to determine which variation performs better for a given conversion goal.
+`A/B test` results can be complex to analyze. Even after creating a strong testing hypothesis, it only takes one simple mistake during the analysis process to derail your whole efforts and make you come up with conclusions that can cost you valuable leads and conversions. 
 
 For more information, you can check the following site:<br/> 
 - [A/B Testing in Python](https://python.plainenglish.io/a-b-testing-in-python-a-user-experience-research-methodology-2739297f8a23)
 - [A/B testing Documentation](https://towardsdatascience.com/analyzing-a-b-test-results-with-python-code-b55fdcd8a78e)
 - [AB_Tests Kaggle](https://www.kaggle.com/code/tammyrotem/ab-tests-with-python)
 
-In this part, using the `kolmogorov smirnov.ipynb` file.
-[kolmogorov smirnov.ipynb](https://github.com/schahinheidari/Statistics-and-data-preparation/blob/main/kolmogorov%20smirnov/kolmogorov%20smirnov.ipynb)
+In this part, using the `P_Value.ipynb` file.
+[P_Value.ipynb](https://github.com/schahinheidari/Statistics-and-data-preparation/blob/main/ABtest/P_Value.ipynb)
