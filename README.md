@@ -140,8 +140,8 @@ You already have NumPy and Pandas already installed. statsmodels is available th
 statsmodels is a Python package that provides a complement to scipy for statistical computations including descriptive statistics and estimation and inference for statistical models. also we used `statsmodels.stats.proportion.proportions_ztest` in programming. 
 
 For more information, you can check the following site:<br/> 
-[statsmodels Documentation](https://pypi.org/project/statsmodels/)
-[proportions_ztest Documentation](https://www.statsmodels.org/dev/generated/statsmodels.stats.proportion.proportions_ztest.html)
+- [statsmodels Documentation](https://pypi.org/project/statsmodels/)
+- [proportions_ztest Documentation](https://www.statsmodels.org/dev/generated/statsmodels.stats.proportion.proportions_ztest.html)
 
 In this part, using the `A-B statistical hypothesis tests.ipynb` file.
 [A-B statistical hypothesis tests.ipynb](https://github.com/schahinheidari/Statistics-and-data-preparation/blob/main/ABtest/A-B%20statistical%20hypothesis%20tests.ipynb)
