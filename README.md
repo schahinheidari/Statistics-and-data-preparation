@@ -11,6 +11,7 @@
 7. Kolmogorov-Smirnov criterion for comparing probability distributions
 8. Familiarity with P Value and its use in statistical tests
 9. A-B statistical hypothesis testing session - practical example of changing the purchase page for customers
+10. Degree of Freedom, F distribution and Chi2 distribution
 
         
 
@@ -145,3 +146,22 @@ For more information, you can check the following site:<br/>
 
 In this part, using the `A-B statistical hypothesis tests.ipynb` file.
 [A-B statistical hypothesis tests.ipynb](https://github.com/schahinheidari/Statistics-and-data-preparation/blob/main/ABtest/A-B%20statistical%20hypothesis%20tests.ipynb)
+
+
+### Degree of Freedom, F distribution and Chi2 distribution :
+
+#### Installation
+You already have matplot already installed, the `from scipy.stats import f` and `from scipy.stats import chi2` package is complet.
+
+#### What is `F` library ?
+The F-distribution, also known Fisher-Snedecor distribution, is extensively used to test for equality of variances from two normal populations. F-distribution got its name after R.A. Fisher, who initially developed this concept in the 1920s. It is a probability distribution of an F-statistic.
+#### What is meant by chi-square distribution?
+A chi-square distribution is a continuous distribution with k degrees of freedom. It is used to describe the distribution of a sum of squared random variables.
+
+For more information, you can check the following site:<br/> 
+- [chi2 Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2.html)
+- [chi2 wikipedia](https://en.wikipedia.org/wiki/Chi-squared_distribution)
+- [F Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f.html)
+
+In this part, using the `F-chi2-Distribution.ipynb` file.
+[F-chi2-Distribution.ipynb](https://github.com/schahinheidari/Statistics-and-data-preparation/blob/main/ABtest/F-chi2-Distribution.ipynb)
